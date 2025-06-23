@@ -1,0 +1,21 @@
+{
+  "name": "inter-pix-backend",
+  "version": "1.0.0",
+  "main": "nano server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielboaoa/inter-pix-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielboaoa/inter-pix-backend/issues"
+  },
+  "homepage": "https://github.com/gabrielboaoa/inter-pix-backend#readme",
+  "description": ""
+}
